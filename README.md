@@ -1,3 +1,3 @@
-# DemoDayWebsite
+# Technica Hackathon Demo Day Site
 
-Technica 2022 Workshop
+Competition at The Hotel, UMD in 2022.
